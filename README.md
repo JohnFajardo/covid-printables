@@ -24,3 +24,5 @@ Recommended settings:
 - 5 top solid layers
 - 5 bottom solid layers
 - 20% infill 
+
+[Notes from designer](vent-adapters/notes-from-designer.md)
