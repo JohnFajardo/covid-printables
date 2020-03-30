@@ -17,12 +17,17 @@ Each kit should contain:
 - 1x [0.5in-to-22mm](vent-adapters/0.5in-pvc-to-22mm.stl)
 - 1x [0.5in-to-22mm male-female](vent-adapters/0.5in-pvc-to-22mm-male-female.stl)
 
+All STLs:
+
+- [zip](vent-adapters/vent-adapters.zip)
+- [tar.gz](vent-adapters/vent-adapters.tar.gz) 
+
 Recommended settings:
 
 - 0.3mm layer height
 - 5 perimiters (walls)
 - 5 top solid layers
 - 5 bottom solid layers
-- 20% infill 
+- 20% infill
 
 [Notes from designer](vent-adapters/notes-from-designer.md)
