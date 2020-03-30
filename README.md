@@ -25,7 +25,7 @@ All STLs:
 Recommended settings:
 
 - 0.3mm layer height
-- 5 perimiters (walls)
+- 5 perimeters (walls)
 - 5 top solid layers
 - 5 bottom solid layers
 - 20% infill
